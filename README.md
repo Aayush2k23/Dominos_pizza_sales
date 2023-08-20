@@ -1,7 +1,7 @@
 # Dominos_pizza_sales
 ## This project is made by Excel, SQL, and Power BI.
 ### 🎯Objective:
-The objective of this data analysis project is to gain insights into a branch of Dominos pizza business's performance based on various aspects of revenue and order data. By analyzing the provided dataset, we aim to identify key trends, patterns, and contributions of different pizza categories, sizes, and specific pizzas to the overall revenue and order metrics. This analysis will provide actionable insights that can help optimize business strategies and decision-making.
+The objective of this data analysis project is to gain insights into a branch of Dominos pizza business' performance based on various aspects of revenue and order data. By analyzing the provided dataset, we aim to identify key trends, patterns, and contributions of different pizza categories, sizes, and specific pizzas to the overall revenue and order metrics. This analysis will provide actionable insights that can help optimize business strategies and decision-making.
 
 ### 🔍Insights:
 1. The month of July contributing the highest total revenue of $72,558 and total orders of 1935. Conversely, October recorded the lowest total revenue of $64,028 and total orders of 1646. July accounts for approx. 9% of the overall revenue.
